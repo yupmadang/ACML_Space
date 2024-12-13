@@ -1,0 +1,2 @@
+D:/Yongjin/Code/ACML_Space/ACML_Space/data/de440.bsp filter=lfs diff=lfs merge=lfs -text
+*.bsp filter=lfs diff=lfs merge=lfs -text
